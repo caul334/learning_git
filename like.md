@@ -1,1 +1,2 @@
 like feature
+hate feature
